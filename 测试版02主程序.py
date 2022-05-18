@@ -65,3 +65,4 @@ for i in range(10):
     i = i+1
 print('对不起，请尝试其他方式进行实验')
 os.system('pause')
+#过期
